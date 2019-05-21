@@ -1,0 +1,66 @@
+<Mod ID="BuilderMenu">
+  <Compatible>1.09</Compatible>
+  <Button Standard="O" ID="Menu">
+    <Name>
+      <EN>Menu</EN>
+    </Name>
+    <Description>
+      <EN>A key to open and close the menu</EN>
+    </Description>
+  </Button>
+  <Button Standard="T" ID="Toggle">
+    <Name>
+      <EN>Toggle</EN>
+    </Name>
+    <Description>
+      <EN>Toggle between editmodes - scale, position, rotation</EN>
+    </Description>
+  </Button>
+  <Button Standard="R" ID="Increase">
+    <Name>
+      <EN>Increase</EN>
+    </Name>
+    <Description>
+      <EN>Increase the value of selected transform</EN>
+    </Description>
+  </Button>
+  <Button Standard="E" ID="Decrease">
+    <Name>
+      <EN>Decrease</EN>
+    </Name>
+    <Description>
+      <EN>Decrease the value of selected transform</EN>
+    </Description>
+  </Button>
+  <Button Standard="E" ID="Put">
+    <Name>
+      <EN>Place item </EN>
+    </Name>
+    <Description>
+      <EN>Places item from your inventory onto a blueprint</EN>
+    </Description>
+  </Button>
+  <Button Standard="G" ID="Edit">
+    <Name>
+      <EN>Edit</EN>
+    </Name>
+    <Description>
+      <EN>Select a blueprint to edit it, holding shift while selecting a building will duplicate it</EN>
+    </Description>
+  </Button>
+  <Button Standard="C" ID="Delete">
+    <Name>
+      <EN>Delete</EN>
+    </Name>
+    <Description>
+      <EN> Hold to delete blueprint while outside edit mode</EN>
+    </Description>
+  </Button>
+  <Name>
+    <EN>BuilderMenu</EN>
+  </Name>
+  <Description>
+    <EN>A menu for custom blueprints, made by Hazard,  REQUIRES BUILDERCORE!  </EN>
+  </Description>
+  <Version>1.1.1</Version>
+</Mod>

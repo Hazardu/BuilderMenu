@@ -1,0 +1,8 @@
+C:\Users\Cyprian Skrzypczak\Desktop\mapi broken\projects\TheForest\BuilderMenu\Mod\BuilderMenu.dll
+C:\Users\Cyprian Skrzypczak\Desktop\mapi broken\projects\TheForest\BuilderMenu\Mod\BuilderMenu.pdb
+C:\Users\Cyprian Skrzypczak\Desktop\mapi broken\projects\TheForest\BuilderMenu\Mod\BuilderCore.dll
+C:\Users\Cyprian Skrzypczak\Desktop\mapi broken\projects\TheForest\BuilderMenu\obj\x86\Release\BuilderMenu.csproj.CoreCompileInputs.cache
+C:\Users\Cyprian Skrzypczak\Desktop\mapi broken\projects\TheForest\BuilderMenu\obj\x86\Release\BuilderMenu.csproj.CopyComplete
+C:\Users\Cyprian Skrzypczak\Desktop\mapi broken\projects\TheForest\BuilderMenu\obj\x86\Release\BuilderMenu.dll
+C:\Users\Cyprian Skrzypczak\Desktop\mapi broken\projects\TheForest\BuilderMenu\obj\x86\Release\BuilderMenu.pdb
+C:\Users\Cyprian Skrzypczak\Desktop\mapi broken\projects\TheForest\BuilderMenu\obj\x86\Release\BuilderMenu.csprojResolveAssemblyReference.cache
